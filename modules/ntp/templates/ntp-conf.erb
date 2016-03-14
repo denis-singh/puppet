@@ -1,0 +1,3 @@
+<%- if @is_virtual == "true" -%>
+server <%= scope.lookupvar('ntp::params::time_server') %> iburst
+<%- end -%>

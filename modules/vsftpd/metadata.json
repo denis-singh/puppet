@@ -1,0 +1,13 @@
+{
+  "name": "denis-vsftpd",
+  "version": "1.0.0",
+  "author": "Denis",
+  "summary": "Sets up a vsftpd instance",
+  "license": "Apache 2.0",
+  "source": "https://github.com/denis-singh/puppet/tree/master/modules/vsftpd",
+  "project_page": "https://github.com/denis-singh/puppet/tree/master/modules/vsftpd",
+  "issues_url": "none",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}

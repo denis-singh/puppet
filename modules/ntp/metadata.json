@@ -1,0 +1,13 @@
+{
+  "author": "Denis Singh",
+  "dependencies": [],
+  "license": "Apache gpl 2.0",
+  "name": "singhd-ntp",
+  "operatingsystem_support": [],
+  "project_page": "",
+  "requirements": [],
+  "source": "",
+  "summary": "Module to setup and configure NTP",
+  "tags": [],
+  "version": "1.0.0"
+}
